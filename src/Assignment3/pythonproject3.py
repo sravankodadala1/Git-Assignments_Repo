@@ -6,6 +6,6 @@ def calculate_rectangle_area(length, width):
 length = float(input("Enter the length of the rectangle: "))
 width = float(input("Enter the width of the rectangle: "))
 
-# Calculate and print the area
+# Calculate and print
 area = calculate_rectangle_area(length, width)
-print("the area of the rectamgle ")
+print("this is the area of the rectangle")
