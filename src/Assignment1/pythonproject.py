@@ -7,3 +7,4 @@ gender = input("Enter your gender")
 print(f"Hello, {name}! You are {age} years old.")
 print(f"Hello, {name}! You are {age} years old.")
 print(f"Hello, {name}! You are {gender}")
+
