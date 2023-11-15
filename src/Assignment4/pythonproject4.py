@@ -18,5 +18,5 @@ result = num1 + num2
 print("The sum of {} and {} is: {}".format(num1, num2, result))
 
 print("The sum of {} and {} is: {}".format(num1, num2, result))
-print("The sum of {} and {} is: {}".format(num1, num2, result))
+print("The sum of {} and {} is: {}".format(num1, num2, result)) 
 
