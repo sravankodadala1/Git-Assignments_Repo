@@ -7,3 +7,4 @@ def factorial(n):
 # Example: Calculate the factorial of 5
 result = factorial(5)
 print(f"The factorial of 5 is: {result}")
+print(f"The factorial of 5 is: {result}")
