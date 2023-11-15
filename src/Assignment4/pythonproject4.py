@@ -8,3 +8,10 @@ def factorial(n):
 result = factorial(5)
 print(f"The factorial of 5 is: {result}")
 print(f"The factorial of 5 is: {result}")
+# Perform a simple calculation (addition in this case)
+result = num1 + num2
+
+# Display the result
+print("The sum of {} and {} is: {}".format(num1, num2, result))
+print("The sum of {} and {} is: {}".format(num1, num2, result))
+
